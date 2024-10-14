@@ -35,5 +35,5 @@ Introverted developer who finds inspiration in his imagination.
 
 Wondering if I have experience? Of course! I just need to take it to the professional world. 🐁
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/esteban-arenas-álvarez-0813462a1) [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.arenas.az@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-arenas-álvarez-0813462a1) [![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.arenas.az@gmail.com)
 <!-- - **Portfolio**: -->

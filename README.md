@@ -1,10 +1,8 @@
 # 🐈‍⬛ Hi, I'm Esteban Arenas!
 
-Quiet boy who usually spends his day in front of a computer. 🎈
-
 ## 🌱 A little about me
 
-Introverted developer who finds inspiration in his imagination.
+A quiet boy and an introverted developer who usually spends his days in front of a computer. 🎈
 
 - **📍 Location**: Santiago, Chile.
 - **🎓 Current Status**: Computer Engineering student.
